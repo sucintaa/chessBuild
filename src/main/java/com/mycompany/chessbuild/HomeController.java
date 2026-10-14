@@ -18,7 +18,7 @@ public class HomeController {
     
     @GetMapping("/")
     public String home(){
-        return "App runs";
+        return "Spring boot and pipeline set ready for Chess Build";
     }
     
 }
