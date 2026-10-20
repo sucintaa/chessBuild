@@ -1,3 +1,6 @@
 com\mycompany\chessbuild\ChessBuild.class
 com\mycompany\chessbuild\HomeController.class
 com\mycompany\chessbuild\ChessBuildApplication.class
+com\mycompany\chessbuild\BoardState.class
+com\mycompany\chessbuild\Piece.class
+com\mycompany\chessbuild\ChessGame.class
